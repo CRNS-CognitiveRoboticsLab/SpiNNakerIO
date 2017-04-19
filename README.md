@@ -15,6 +15,6 @@ To build the SpiNNakerIO library
 3. do sudo make install to install to /usr/local/
 
 4. It will copy:
-⋅⋅1. libSpinnakerIO.a to /usr/local/lib
-⋅⋅2. SpinnakerIOConfig.cmake to /usr/local/share/SpiNNakerIO
-⋅⋅3. INCLUDE files to /usr/local/include/SpiNNakerIO
+..1. libSpinnakerIO.a to /usr/local/lib
+..2. SpinnakerIOConfig.cmake to /usr/local/share/SpiNNakerIO
+..3. INCLUDE files to /usr/local/include/SpiNNakerIO
